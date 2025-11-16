@@ -18,7 +18,8 @@
             android:textSize="22sp"
             android:textStyle="bold"
             android:textColor="@color/text_dark"
-            android:layout_marginBottom="12dp"/>
+            android:layout_marginBottom="12dp"
+            android:padding="20dp"/>
 
         <!-- Example cards for helped people -->
         <LinearLayout
@@ -46,7 +47,8 @@
                         android:text="John Doe"
                         android:textStyle="bold"
                         android:textSize="16sp"
-                        android:textColor="@color/text_dark"/>
+                        android:textColor="@color/text_dark"
+                        android:background="@color/bg_light" />
 
                     <TextView
                         android:layout_width="wrap_content"
