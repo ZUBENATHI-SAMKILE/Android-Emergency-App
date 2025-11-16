@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary colors -->
+    <color name="primary_red">#E53935</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent_orange">#FF7043</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_light">#FFF5F5F5</color>
+    <color name="bg_gradient_start">#FFF5F5F5</color>
+    <color name="bg_gradient_end">#FFE57373</color>
+
+    <!-- Text -->
+    <color name="text_dark">#212121</color>
+    <color name="text_light">#FFFFFF</color>
+
+    <!-- Cards / UI -->
+    <color name="card_white">#FFFFFF</color>
+    <color name="card_shadow">#E0E0E0</color>
+</resources>

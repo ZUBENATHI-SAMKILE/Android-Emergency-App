@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_title"
+            android:textSize="24sp"
+            android:textColor="@color/text_dark"
+            android:fontFamily="sans-serif-bold"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- User info input fields -->
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_name"
+            android:padding="12dp"
+            android:background="@drawable/card_bg"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/etContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_contact"
+            android:padding="12dp"
+            android:background="@drawable/card_bg"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/etBlood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_blood"
+            android:padding="12dp"
+            android:background="@drawable/card_bg"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btnSaveSettings"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="@string/save_info"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/primary_red"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Navigation Buttons -->
+        <Button
+            android:id="@+id/btnAbout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/about_us"
+            android:background="@drawable/card_bg"
+            android:textColor="@color/text_dark"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnTerms"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/terms_conditions"
+            android:background="@drawable/card_bg"
+            android:textColor="@color/text_dark"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnHowToUse"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/how_to_use"
+            android:background="@drawable/card_bg"
+            android:textColor="@color/text_dark"
+            android:layout_marginBottom="12dp"/>
+
+        <Button
+            android:id="@+id/btnHelped"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/helped_people"
+            android:background="@drawable/card_bg"
+            android:textColor="@color/text_dark"/>
+
+    </LinearLayout>
+</ScrollView>

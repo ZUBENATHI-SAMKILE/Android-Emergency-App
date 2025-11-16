@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">EmergencyApp</string>
+
+    <!-- Main Activity -->
+    <string name="refresh_location">Refresh Location</string>
+    <string name="settings">Settings</string>
+
+
+    <!-- Main Activity -->
+    <string name="sos">SOS</string>
+    <string name="call_now">Call Now</string>
+
+    <!-- Setup / Settings -->
+    <string name="setup_title">Setup Your Info</string>
+    <string name="settings_title">Settings</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_contact">Enter emergency contact number</string>
+    <string name="hint_blood">Enter blood type</string>
+    <string name="save_info">Save Info</string>
+
+    <!-- Navigation Buttons -->
+    <string name="about_us">About Us</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="helped_people">People We have Helped</string>
+
+    <!-- Toasts / Messages -->
+    <string name="permission_denied">Permission denied. Please allow to continue.</string>
+    <string name="emergency_sms_sent">Emergency SMS sent!</string>
+    <string name="set_contact_first">Please set emergency contact in Settings.</string>
+
+
+    <!-- Terms Screen -->
+    <string name="terms_title">Terms and Conditions</string>
+    <string name="terms_content">
+        EmergencyApp provides a quick way to share your location and vital info during emergencies.
+        By using this app, you agree to allow EmergencyApp to access your location and send SMS/call to your designated emergency contacts.
+        Please ensure the contact information you provide is accurate.
+        EmergencyApp is not responsible for misuse or failure of third-party services.
+    </string>
+</resources>
