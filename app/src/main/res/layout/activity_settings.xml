@@ -20,7 +20,8 @@
             android:textSize="24sp"
             android:textColor="@color/text_dark"
             android:fontFamily="sans-serif-bold"
-            android:layout_marginBottom="24dp"/>
+            android:layout_marginBottom="24dp"
+            android:padding="20dp"/>
 
         <!-- User info input fields -->
         <EditText
