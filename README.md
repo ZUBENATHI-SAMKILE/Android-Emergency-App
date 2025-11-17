@@ -3,7 +3,10 @@
 - An Android emergency-response application designed to help users quickly call for help and send automated SMS alerts with their real-time location during emergencies.
 - Built in 2025 in the Eastern Cape, South Africa, this app aims to improve community safety by providing fast, reliable, and easy-to-use emergency communication tools.
 - Offline mode App
-
+- The App is working and live
+  1. Go to Releases → Download the APK file
+ 
+     
 # Project Structure
 
 - 📁 app/src/main/java/com/serious/emergencyapp/
