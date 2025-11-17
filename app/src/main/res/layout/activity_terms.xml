@@ -21,7 +21,7 @@
             android:textColor="@color/text_dark"
             android:layout_marginBottom="16dp"
             android:fontFamily="sans-serif-medium"
-            android:padding="40dp"/>
+            android:paddingTop="20dp"/>
 
         <!-- Terms Content -->
         <TextView

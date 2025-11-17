@@ -23,16 +23,16 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Emergency App is a safety tool developed in South Africa, Eastern Cape. Founded in the year 2025, this app was created to help protect and support users in emergency situations.
+            android:text=". Emergency App is a safety tool developed in South Africa, Eastern Cape. Founded in the year 2025, this app was created to help protect and support users in emergency situations.\n
             The app allows you to:\n
             • Send instant SOS messages\n
             • Share your live location\n
             • Call emergency contacts quickly\n
             • Provide fast communication during danger\n
-            \nOur mission is to make safety simple, fast, and reliable for everyone."
+            \n . Our mission is to make safety simple, fast, and reliable for everyone."
             android:textSize="16sp"
             android:lineSpacingExtra="4dp"
             android:textColor="@color/text_dark"
-            android:padding="20dp"/>
+            android:paddingTop="20dp"/>
     </LinearLayout>
 </ScrollView>

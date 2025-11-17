@@ -14,12 +14,12 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="People We've Helped"
+            android:text="People We hve Helped"
             android:textSize="22sp"
             android:textStyle="bold"
             android:textColor="@color/text_dark"
             android:layout_marginBottom="12dp"
-            android:padding="40dp"/>
+            android:paddingTop="40dp"/>
 
         <!-- Example cards for helped people -->
         <LinearLayout
