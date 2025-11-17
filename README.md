@@ -10,15 +10,15 @@
 # Project Structure
 
 - 📁 app/src/main/java/com/serious/emergencyapp/
-│── MainActivity.java
-│── SetupActivity.java
-│── SettingsActivity.java
-│── AboutActivity.java
-│── HowToUseActivity.java
-│── TermsActivity.java
-│── HelpedPeopleActivity.java
-│── utils/
-│     └── SharedPrefManager.java
+- │── MainActivity.java
+- │── SetupActivity.java
+- │── SettingsActivity.java
+- │── AboutActivity.java
+- │── HowToUseActivity.java
+- │── TermsActivity.java
+- │── HelpedPeopleActivity.java
+- │── utils/
+- │     └── SharedPrefManager.java
 
 
 # Tech Stack
